@@ -1,1 +1,1 @@
-pkg update && pkg install wget -y && wget https://raw.githubusercontent.com/catalizcs/storage-data/master/install.sh && bash install.sh
+pkg update && pkg install wget -y && wget https://raw.githubusercontent.com/NA3T-Bot/storage-data/master/install.sh && bash install.sh
