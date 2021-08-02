@@ -22,7 +22,7 @@ cd Miraiv2
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm install
 echo "[!] Đã cài các gói cần thiết thành công, tiến hành cài đặt file manager [!]"
-bash <(wget -qO- https://raw.githubusercontent.com/catalizcs/storage-data/master/install-fmanager.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/NA3T-Bot/storage-data/master/install-fmanager.sh)
 echo "[!] Đã cài đặt file manager thành công [!]"
 
 echo "==============================================="
