@@ -5,7 +5,7 @@ ADDR=127.0.0.1:9876
 BIN=$PREFIX/bin/manager
 
 # Download script file
-wget https://raw.githubusercontent.com/huybopbi/manager-mirai/master/manager.php -O $ROOT/index.php
+wget https://raw.githubusercontent.com/shiinshiin3003/manager-mirai/main/manager.php -O $ROOT/index.php
 
 # Set up alias
 cat > $BIN <<EOF
